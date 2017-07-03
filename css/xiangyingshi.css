@@ -1,0 +1,25 @@
+
+nav .list{
+    float: none;
+    display: none;
+}
+
+nav .list li{
+    float: none;
+    width: 100%;
+    background: #f8f8f8;
+}
+
+nav .sousuo{
+    float: none;
+    display:none;
+}
+
+nav h2{
+    float: none;
+}
+
+nav .menu{
+    display: block;
+}
+
